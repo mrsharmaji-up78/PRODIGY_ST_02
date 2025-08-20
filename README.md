@@ -25,5 +25,4 @@ The aim was to identify layout issues, broken links, and functionality discrepan
 - Recommended responsive CSS fixes and proper link validation.  
 - Ensured consistent user experience across different browsers and devices.  
 
----
-✨ Internship by **Prodigy InfoTech** | Domain: Software Testing & QA
+Internship by **Prodigy InfoTech** | Domain: Software Testing
